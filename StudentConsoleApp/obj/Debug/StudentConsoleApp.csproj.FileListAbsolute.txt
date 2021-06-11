@@ -1,0 +1,7 @@
+C:\Users\GAUTAM BHAGAT\source\repos\StudentConsoleApp\StudentConsoleApp\bin\Debug\StudentConsoleApp.exe.config
+C:\Users\GAUTAM BHAGAT\source\repos\StudentConsoleApp\StudentConsoleApp\bin\Debug\StudentConsoleApp.exe
+C:\Users\GAUTAM BHAGAT\source\repos\StudentConsoleApp\StudentConsoleApp\bin\Debug\StudentConsoleApp.pdb
+C:\Users\GAUTAM BHAGAT\source\repos\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.csprojAssemblyReference.cache
+C:\Users\GAUTAM BHAGAT\source\repos\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\GAUTAM BHAGAT\source\repos\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.exe
+C:\Users\GAUTAM BHAGAT\source\repos\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.pdb
